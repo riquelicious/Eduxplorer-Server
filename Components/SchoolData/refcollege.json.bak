@@ -1,0 +1,577 @@
+[
+  {
+    "School": "Lourdes College of Bulacan",
+    "Location": "Angat",
+    "Distance": 10,
+    "Tracks": [
+      "BS in Business Administration",
+      "Bachelor of Elementary Education"
+    ]
+  },
+
+  {
+    "School": "Bulacan Polytechnic College",
+    "Location": "Angat",
+    "Distance": 10,
+    "Tracks": ["Computer Secretarial", "Hotel and Restaurant Services"]
+  },
+
+  {
+    "School": "STI College",
+    "Location": "Balagtas",
+    "Distance": 3,
+    "Tracks": [
+      "BS in Accountancy",
+      "BS in Accounting Information System",
+      "BS in Business Administration",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Technology",
+      "BS in Hospitality Management",
+      "BS in Tourism Management",
+      "Bachelor of Elementary Education",
+      "Bachelor of Multimedia Arts",
+      "BS in Psychology",
+      "Associate in Computer Technology",
+      "Professional Culinary Arts"
+    ]
+  },
+
+  {
+    "School": "Our Lady of Manaoag Montessori College",
+    "Location": "Balagtas",
+    "Distance": 3,
+    "Tracks": ["BS in Hotel and Restaurant Management"]
+  },
+
+  {
+    "School": "College of Saint Lawrence",
+    "Location": "Balagtas",
+    "Distance": 3,
+    "Tracks": [
+      "BS in Accountancy",
+      "BS in Commerce",
+      "Bachelor of Secondary Education",
+      "BS in Computer Science",
+      "BS in Criminology"
+    ]
+  },
+
+  {
+    "School": "Baliuag University",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Physical Education",
+      "Bachelor of Secondary Education",
+      "Bachelor of Early Childhood Education",
+      "BS in Civil Engineering",
+      "BS in Computer Engineering",
+      "BS in Electrical Engineering",
+      "BS in Electronics Engineering",
+      "BS in Industrial Engineering",
+      "BS in Mechanical Engineering",
+      "BA in Economics",
+      "BS in Accountancy",
+      "BS in Business Administration",
+      "BS in Medical Technology/Medical Laboratory Science",
+      "BS in Nursing",
+      "BS in Nutrition and Dietetics",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Systems",
+      "BA in Communication",
+      "Bachelor of Library and Information Science",
+      "BA in Political Science",
+      "BS in Psychology",
+      "BS in Social Work",
+      "BS in Hospitality Management",
+      "BS in Tourism Management",
+      "BS in Management Accounting",
+      "BA in History",
+      "BA in English",
+      "BS in Mathematics",
+      "MA in Education",
+      "MA in Teaching",
+      "Master in Business Administration",
+      "MA in Nursing",
+      "MS in Nursing",
+      "Master in Information Technology",
+      "Master of Library and Information Science",
+      "MS in Hospitality and Tourism Management",
+      "Master in Public Administration"
+    ]
+  },
+
+  {
+    "School": "St. Mary's College of Baliuag",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "BS in Business Administration",
+      "BS in Information Technology",
+      "BS in Nursing"
+    ]
+  },
+
+  {
+    "School": "Fernandez College of Arts and Technology",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "BS in Hotel and Restaurant Management",
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Physical Education",
+      "BS in Accountancy",
+      "BS in Business Administration",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Computer Engineering",
+      "BS in Marine Transportation",
+      "BS in Criminology"
+    ]
+  },
+
+  {
+    "School": "Baliwag Polytechnic College",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "BS in Accountancy",
+      "BS in Business Administration",
+      "BS in Hotel and Restaurant Management",
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Computer Engineering",
+      "BS in Information Technology",
+      "BS in Computer Engineering"
+    ]
+  },
+
+  {
+    "School": "Marian College of Baliuag",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "BS in Hospitality Management",
+      "BS in Business Administration",
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education"
+    ]
+  },
+
+  {
+    "School": "STI College",
+    "Location": "Baliuag",
+    "Distance": 5,
+    "Tracks": [
+      "BS in Accounting Information System",
+      "BS in Business Administration",
+      "BS in Retail Technology and Consumer Science",
+      "BS in Hospitality Management",
+      "BS in Information Technology",
+      "Associate in Retail Technology",
+      "Associate in Computer Technology"
+    ]
+  },
+
+  {
+    "School": "Dr. Yanga's College, Inc.",
+    "Location": "Bocaue",
+    "Distance": 4,
+    "Tracks": [
+      "BS in Accountancy",
+      "BS in Accounting Information System",
+      "BS in Business Administration",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism",
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Computer Engineering",
+      "BS in Electrical Engineering",
+      "BS in Marine Engineering",
+      "BS in Mechanical Engineering",
+      "BS in Midwifery",
+      "BS in Nursing",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Technology",
+      "BS in Marine Engineering",
+      "BS in Marine Transportation",
+      "AB in Political Science",
+      "AB in Psychology"
+    ]
+  },
+
+  {
+    "School": "Jesus Is Lord Colleges Foundation",
+    "Location": "Bocaue",
+    "Distance": 4,
+    "Tracks": [
+      "BS in Business Administration",
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education"
+    ]
+  },
+
+  {
+    "School": "College of Mt. Carmel",
+    "Location": "Bocaue",
+    "Distance": 4,
+    "Tracks": [
+      "BS in Medical Technology",
+      "BS in Nursing",
+      "Bachelor of Secondary Education",
+      "BS in Psychology",
+      "BS in Hotel and Restaurant Management"
+    ]
+  },
+
+  {
+    "School": "Bulacan State University",
+    "Location": "Bustos",
+    "Distance": 6,
+    "Tracks": [
+      "Bachelor in Elementary Education",
+      "Bachelor in Secondary Education",
+      "BS in Industrial Education",
+      "Bachelor in Industrial Technology",
+      "BSEd in Food Technology",
+      "BS in Civil Engineering",
+      "BS in Computer Engineering",
+      "BS in Electrical Engineering",
+      "BS in Electronics and Communications Engineering",
+      "BS in Industrial Engineering",
+      "BS in Manufacturing Engineering",
+      "BS in Mechanical Engineering",
+      "BS in Information Technology",
+      "BS in Computer Engineering",
+      "BS in Nursing"
+    ]
+  },
+
+  {
+    "School": "Bulacan State University",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor in Physical Education",
+      "Bachelor of Secondary Education",
+      "Bachelor of Technical Teacher Education",
+      "BS in Home Economics",
+      "Bachelor of Technical Teacher Education",
+      "Bachelor in Industrial Technology",
+      "BS in Civil Engineering",
+      "BS in Computer Engineering",
+      "BS in Electrical Engineering",
+      "BS in Electronics and Communications Engineering",
+      "BS in Industrial Engineering",
+      "BS in Manufacturing Engineering and Management",
+      "BS in Mechanical Engineering",
+      "BS in Mechatronics Engineering",
+      "BS in Accountancy",
+      "BS in Accounting Technology",
+      "BS in Business Administration",
+      "BS in Entrepreneurship",
+      "BS in Fine Arts major in Advertising Arts",
+      "BS in Home Economics",
+      "Bachelor of Sports Science",
+      "BS in Biology",
+      "BS in Mathematics",
+      "BS in Computer Engineering",
+      "BS in Information Technology",
+      "AB in Theater Arts",
+      "BS in Fine Arts major in Visual Communication",
+      "AB in Broadcasting",
+      "AB in Journalism",
+      "AB in Mass Communication",
+      "BS in Architecture",
+      "BS in Landscape Architecture",
+      "AB in Legal Management",
+      "BS in Criminology",
+      "BS in Psychology",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "AB in Malikhaing Pagsulat",
+      "BS in Nursing",
+      "MA in Education",
+      "Civil Engineering",
+      "Computer Engineering",
+      "MS in Civil Engineering",
+      "MS in Computer Engineering",
+      "MS in Electronics and Communications Engineering",
+      "MS in Manufacturing Engineering and Management",
+      "MS in Mechanical Engineering",
+      "Master of Business Administration",
+      "MA in Education area of concentration in Biology",
+      "Master of Engineering Program major in Computer Engineering",
+      "MS in Computer Engineering",
+      "MS in Information Technology",
+      "Master in Public Administration",
+      "MA in Education area of concentration in Social Studies Law",
+      "Doctor of Education"
+    ]
+  },
+
+  {
+    "School": "AMA Computer University",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "BS in Business Administration",
+      "BS in Nursing",
+      "BS in Pharmacy",
+      "AB in Mass Communication",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "Bachelor of Elementary Education",
+      "BS in Information Technology",
+      "BS in Psychology",
+      "Doctor of Dental Medicine"
+    ]
+  },
+
+  {
+    "School": "La Consolacion University Philippines",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "AB in Economics",
+      "BS in Accountancy",
+      "BS in Accounting Technology",
+      "BS in Business Administration",
+      "AB in Psychology",
+      "BS in Psychology",
+      "BS in Social Work",
+      "BS in Medical Technology",
+      "BS in Nursing",
+      "BS in Physical Therapy",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Systems",
+      "BS in Information Technology",
+      "AB in Filipino",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "BS in Computer Engineering",
+      "BS in Industrial Engineering",
+      "AB in Communication Arts",
+      "AB in Literature",
+      "BS in Biology",
+      "MA in Education",
+      "Master in Business Administration",
+      "MA in Behavioral Science",
+      "MA in Education major in Social Studies",
+      "MS in Psychology",
+      "MS in Social Work",
+      "MA in Nursing",
+      "MS in Information Technology",
+      "Master in Public Administration",
+      "MS in Information Science",
+      "MA in Education major in Arts Management",
+      "Doctor of Education",
+      "PhD in Education",
+      "Doctor in Business Administration",
+      "PhD in Educational Psychology",
+      "Doctor in Information Technology",
+      "Doctor in Public Administration",
+      "PhD in English Language and Literature"
+    ]
+  },
+
+  {
+    "School": "ACLC",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "BS in Computer Science",
+      "BS in Accounting Information System",
+      "BS in Entrepreneurship",
+      "Associate in Computer Technology"
+    ]
+  },
+
+  {
+    "School": "Bulacan Polytechnic College",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "BS in Office Management",
+      "BS in Accounting Information System",
+      "BS in Entrepreneurship",
+      "Associate in Computer Technology",
+      "Bachelor of Technical - Vocational Teacher Education",
+      "BS in Information Systems"
+    ]
+  },
+
+  {
+    "School": "STI College",
+    "Location": "Malolos",
+    "Distance": 7,
+    "Tracks": [
+      "BS in Accountancy",
+      "BS in Accounting Information System",
+      "BS in Business Administration",
+      "BS in Retail Technology and Consumer Science",
+      "BS in Computer Engineering",
+      "BS in Information Technology",
+      "BS in Hospitality Management",
+      "BS in Tourism Management",
+      "AB in Communication"
+    ]
+  },
+
+  {
+    "School": "Pambayang Dalubhasaan ng Marilao",
+    "Location": "Marilao",
+    "Distance": 2,
+    "Tracks": [
+      "BS in Computer Science",
+      "BS in Information Technology",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management"
+    ]
+  },
+
+  {
+    "School": "St. Mary's College of Meycauayan",
+    "Location": "Meycauayan",
+    "Distance": 8,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Accountancy",
+      "BS in Business Administration",
+      "BS in Computer Science",
+      "BS in Information Technology",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management"
+    ]
+  },
+
+  {
+    "School": "Meycauayan College",
+    "Location": "Meycauayan",
+    "Distance": 8,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Physical Education",
+      "BS in Accountancy",
+      "BS in Accounting Technology",
+      "BS in Business Administration",
+      "AB in Psychology",
+      "BS in Criminology",
+      "BS in Social Work",
+      "BS in Hospitality Management",
+      "BS in Travel Management",
+      "BS in Legal Management",
+      "Bachelor of Library and Information Science",
+      "BS in Computer Science",
+      "MA in Education"
+    ]
+  },
+
+  {
+    "School": "Polytechnic College of the City of Meycauayan",
+    "Location": "Meycauayan",
+    "Distance": 8,
+    "Tracks": [
+      "BS in Hotel and Restaurant Management",
+      "Bachelor of Secondary Education"
+    ]
+  },
+
+  {
+    "School": "STI College",
+    "Location": "Meycauayan",
+    "Distance": 8,
+    "Tracks": [
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Systems",
+      "BS in Information Technology",
+      "BS in Hospitality Management",
+      "BS in Tourism Management",
+      "BS in Business Administration"
+    ]
+  },
+
+  {
+    "School": "Sta. Clara of Montefalco College",
+    "Location": "Meycauayan",
+    "Distance": 8,
+    "Tracks": ["BS in Nursing"]
+  },
+
+  {
+    "School": "Polytechnic University of the Philippines",
+    "Location": "Santa Maria",
+    "Distance": 9,
+    "Tracks": [
+      "Bachelor of Secondary Education",
+      "BS in Accountancy",
+      "BS in Entrepreneurship",
+      "BS in Computer Engineering",
+      "BS in Information Technology",
+      "BS in Hospitality Management"
+    ]
+  },
+
+  {
+    "School": "STI College",
+    "Location": "Santa Maria",
+    "Distance": 9,
+    "Tracks": [
+      "BS in Accounting Information System",
+      "BS in Retail Technology and Consumer Science",
+      "BS in Computer Engineering",
+      "BS in Computer Science",
+      "BS in Information Technology",
+      "BS in Hospitality Management",
+      "BS in Tourism Management"
+    ]
+  },
+
+  {
+    "School": "Saint Joseph College of Bulacan",
+    "Location": "Santa Maria",
+    "Distance": 9,
+    "Tracks": [
+      "Bachelor of Elementary Education",
+      "Bachelor of Secondary Education",
+      "BS in Accountancy",
+      "BS in Business Administration",
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "BS in Computer Science",
+      "BS in Information Systems",
+      "AB in Psychology"
+    ]
+  },
+
+  {
+    "School": "Immaculate Conception International College of Arts",
+    "Location": "Santa Maria",
+    "Distance": 9,
+    "Tracks": [
+      "BS in Hotel and Restaurant Management",
+      "BS in Tourism Management",
+      "BS in Accountancy",
+      "BS in Accounting Technology",
+      "BS in Business Administration",
+      "BS in Entrepreneurship",
+      "BS in Computer Science",
+      "Bachelor of Secondary Education"
+    ]
+  }
+]
